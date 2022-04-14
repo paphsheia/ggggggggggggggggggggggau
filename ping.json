@@ -2,11 +2,11 @@
     "query": [
         {
             "number": 1,
-            "name": "Faze",
-            "ip": "194.61.3.167",
-            "port": 11661,
+            "name": "Denver",
+            "ip": "164.132.201.89",
+            "port": 1731,
             "online": 0,
-            "maxplayers": 120,
+            "maxplayers": 50,
             "password": false,
             "plotPoints": [
                 {
